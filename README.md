@@ -1,4 +1,4 @@
 # Cette carte met en relation les zones d’accélération des énergies renouvelables (ZAEnR) avec les besoins énergétiques des bâtiments résidentiels et tertiaires, en distinguant les besoins en chaleur et en froid.
-# Elle permet d’identifier les secteurs où la demande énergétique est la plus forte, afin d’évaluer la pertinence du développement des énergies renouvelables locales (réseaux de chaleur, solaire thermique, géothermie, #rafraîchissement passif, etc.).
+# Elle permet d’identifier les secteurs où la demande énergétique est la plus forte, afin d’évaluer la pertinence du développement des énergies renouvelables locales (réseaux de chaleur, solaire thermique, géothermie, rafraîchissement passif, etc.).
 # L’analyse croisée met en évidence les zones où une adéquation entre potentiel de production d’énergie renouvelable et besoins énergétiques des bâtiments est possible, constituant ainsi des secteurs prioritaires pour la 
-# planification énergétique territoriale et la transition énergétique.
+ planification énergétique territoriale et la transition énergétique.
